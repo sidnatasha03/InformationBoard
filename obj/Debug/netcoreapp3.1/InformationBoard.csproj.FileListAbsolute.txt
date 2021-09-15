@@ -1,0 +1,5 @@
+D:\вижуал\InformationBoard\obj\Debug\netcoreapp3.1\InformationBoard.csproj.AssemblyReference.cache
+D:\вижуал\InformationBoard\obj\Debug\netcoreapp3.1\InformationBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\вижуал\InformationBoard\obj\Debug\netcoreapp3.1\InformationBoard.AssemblyInfoInputs.cache
+D:\вижуал\InformationBoard\obj\Debug\netcoreapp3.1\InformationBoard.AssemblyInfo.cs
+D:\вижуал\InformationBoard\obj\Debug\netcoreapp3.1\InformationBoard.csproj.CoreCompileInputs.cache
